@@ -7,7 +7,7 @@ sends the coordinates of the target to your discord server via webhook
 <p>save <p/>
 <p>crate a new repo in public <p/>
 <p>add file <p/>
- https://user-images.githubusercontent.com/93588803/209905806-c66ec56d-fc37-4d78-8274-f7050838d199.png?raw=true
+<img src="https://user-images.githubusercontent.com/93588803/209905806-c66ec56d-fc37-4d78-8274-f7050838d199.png?raw=true" width="350" title="hover text">
 <p>click geolocationgraber.ps1.txt<p/>
 <p> <img src="github.com/quazi00/geoloaction-grabber/tree/main/images/image2" width="350" title="hover text"> <p/>
 <p>click the pen<p/>
